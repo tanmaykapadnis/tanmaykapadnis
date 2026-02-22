@@ -76,9 +76,8 @@ CGPA: **8.9 / 10**
 
 ## 📫 Connect With Me
 
-* LinkedIn: (Add Link)
+
 * GitHub: https://github.com/tanmaykapadnis
-* LeetCode: (Add Link)
 * Email: [tanmaykapadnis2005@gmail.com](mailto:tanmaykapadnis2005@gmail.com)
 
 ---
