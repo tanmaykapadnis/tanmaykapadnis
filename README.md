@@ -1,4 +1,4 @@
-# Hi, I'm Tanmay Kapadnis 👋
+# Hi, I'm Tanmay Sachin Kapadnis 👋
 
 🎓 AI/ML Undergraduate @ BMS Institute of Technology and Management (2023–2027)
 💡 Passionate about Software Engineering, AI Systems, and Real-World Problem Solving
